@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.facetune2vip
+Name: Facetune 2 (VIP)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enjoy with VIP feature! Tong hilap di kopian.
+Maintainer: kiengk0eng
+Author: kiengk0eng
+Section: Tweaks
+Version: 1.19-2
+Installed-Size: 120
